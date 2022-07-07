@@ -1,0 +1,20 @@
+export enum ButtonValueTypeEnum {
+    Clear,
+    Power,
+    Div,
+    Mul,
+    Add,
+    Sub,
+    Equal,
+    Dot,
+    Zero,
+    One,
+    Two,
+    Three,
+    Four,
+    Five,
+    Six,
+    Seven,
+    Eight,
+    Nine
+}
